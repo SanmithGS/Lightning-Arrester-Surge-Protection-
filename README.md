@@ -48,4 +48,5 @@ Power System Protection • Surge Protection • Lightning Modeling • Transien
 ---
 
 **Sanmith G S**  
-M.Tech – Smart Electric Grid | NIT Warangal
+- M.Tech – Smart Electric Grid , NIT Warangal
+- B.E - Electrical Electronics , BMS College Of Engineering
